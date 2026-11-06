@@ -16,7 +16,12 @@
 **Mac** — เปิด .dmg → ลาก GGTK ไปที่ Applications → เปิด GGTK → ถ้าเตือน: System Settings → Privacy & Security → **Open Anyway**
 ถ้าขึ้น "damaged": รัน `xattr -dr com.apple.quarantine /Applications/GGTK.app` ใน Terminal
 
-**Windows** — ดับเบิลคลิก .exe → ถ้าขึ้น "Windows protected your PC" กด **More info → Run anyway** → Next จนจบ (ไม่ต้องใช้ admin)
+**Windows**
+1. ถ้า Edge ขึ้น "isn't commonly downloaded" → กด **⋯** ที่ไฟล์ → **Keep** → **Show more** → **Keep anyway**
+2. เปิดไฟล์ .exe → ถ้าขึ้น "Windows protected your PC" กด **More info → Run anyway**
+3. Next จนจบ (ไม่ต้องใช้ admin) → เปิด GGTK จาก Start menu
+
+(คำเตือนขึ้นเพราะโปรแกรมยังไม่ได้ซื้อใบรับรอง ไม่ใช่ไวรัส)
 
 ครั้งแรกที่เปิดต้องกด **Agree** ข้อตกลงการใช้งาน — ใช้ภายในทีมเท่านั้น ห้ามแจกต่อ
 
