@@ -2,7 +2,7 @@
 
 โปรแกรม SSH / SFTP / Serial ของทีม (แนว MobaXterm) — repo นี้มี **เฉพาะไฟล์ติดตั้ง** ไม่มีซอร์สโค้ด
 
-📖 **[คู่มือการใช้งาน / User Manual](MANUAL.md)**
+📖 **คู่มือการใช้งาน / User Manual:** [อ่านออนไลน์](MANUAL.md) · [โหลด PDF](https://github.com/THEPPITUKK/ggtk-releases/releases/latest/download/GGTK_1.0.1_Manual.pdf)
 
 ## โหลด
 
