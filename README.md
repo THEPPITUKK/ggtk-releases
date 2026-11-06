@@ -2,6 +2,8 @@
 
 โปรแกรม SSH / SFTP / Serial ของทีม (แนว MobaXterm) — repo นี้มี **เฉพาะไฟล์ติดตั้ง** ไม่มีซอร์สโค้ด
 
+📖 **[คู่มือการใช้งาน / User Manual](MANUAL.md)**
+
 ## โหลด
 
 ไปที่ **[Releases](../../releases/latest)** → หัวข้อ Assets แล้วเลือกไฟล์ให้ตรงเครื่อง
